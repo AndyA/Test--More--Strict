@@ -7,8 +7,8 @@ SKIP: {
     my @expect = (
         qr{^1\.\.4$},
         qr{^not\s+ok\s+1\s*$},
-        qr{^ok\s+2\s+-\s+this\s+has\s+a\s+message\s*$},
-        qr{^ok\s+3\s+-\s+this\s+also\s+has\s+a\s+message\s*$},
+        qr{^ok\s+2\s+(?:-\s+)?this\s+has\s+a\s+message\s*$},
+        qr{^ok\s+3\s+(?:-\s+)?this\s+also\s+has\s+a\s+message\s*$},
         qr{^not\s+ok\s+4\s*$}
     );
 
