@@ -97,7 +97,7 @@ sub _and_with_handlers {
     sub import {
         my $class = shift;
 
-        croak "Please supply a number of key, value pairs"
+        croak "Please supply a number of key => value pairs"
           if @_ & 1;
 
         while ( my ( $event, $validator ) = splice @_, 0, 2 ) {
