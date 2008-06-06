@@ -1,9 +1,11 @@
-Build.PL
 Changes
-MANIFEST
-Makefile.PL
-README
 lib/Test/More/Strict.pm
+Makefile.PL
+MANIFEST
+README
 t/00.load.t
+t/basic.t
+t/fail.t
+t/fail.tt
 t/pod-coverage.t
 t/pod.t
