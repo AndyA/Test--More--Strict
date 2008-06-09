@@ -7,5 +7,6 @@ t/00.load.t
 t/basic.t
 t/fail.t
 t/fail.tt
+t/install.t
 t/pod-coverage.t
 t/pod.t
