@@ -7,7 +7,7 @@ eval 'use ExtUtils::MakeMaker::Coverage';
 WriteMakefile(
     ( MM->can( 'signature_target' ) ? ( SIGN => 1 ) : () ),
     NAME          => 'Test::More::Strict',
-    AUTHOR        => 'Andy Armstrong <andy@hexten.net>',
+    AUTHOR        => 'Andy Armstrong <andy.armstrong@messagesystems.com>',
     LICENSE       => 'perl',
     VERSION_FROM  => 'lib/Test/More/Strict.pm',
     ABSTRACT_FROM => 'lib/Test/More/Strict.pm',

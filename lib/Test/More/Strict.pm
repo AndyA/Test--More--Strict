@@ -134,11 +134,11 @@ L<http://rt.cpan.org>.
 
 =head1 AUTHOR
 
-Andy Armstrong  C<< <andy@hexten.net> >>
+Andy Armstrong  C<< <andy.armstrong@messagesystems.com> >>
 
 =head1 LICENCE AND COPYRIGHT
 
-Copyright (c) 2008, Andy Armstrong C<< <andy@hexten.net> >>.
+Copyright (c) 2008, Andy Armstrong C<< <andy.armstrong@messagesystems.com> >>.
 
 This module is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself. See L<perlartistic>.
